@@ -14,6 +14,6 @@ Very fun simple stuff, took me about 10 minutes to code this.
 
 It's just a prototype, will update anytime soon and lanch on webstore.
 
-Fireworks or another browser? Yea, maybe.
+Firefox or another browser? Yea, maybe.
 
 Allright, sign out!
