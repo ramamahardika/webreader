@@ -12,7 +12,7 @@ Very fun simple stuff, took me about 10 minutes to code this.
 - Intall it by dragging to chrome://extension
 - Add this app id to Whitelist in Chrome policy
 
-It's just a prototype, will update anytime soon and lanch on webstore.
+It's just a prototype, will update anytime soon and launch on webstore.
 
 Firefox or another browser? Yea, maybe.
 
