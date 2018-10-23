@@ -10,7 +10,7 @@ Very fun simple stuff, took me about 10 minutes to code this.
 - Enable Developer Mode on Chrome
 - Pack his repo
 - Intall it by dragging to chrome://extension
-- Add this app id to Whitelist in Chrome policy
+- Add this app id to Whitelist in Chrome policy (Windows User)
 
 It's just a prototype, will update anytime soon and launch on webstore.
 
